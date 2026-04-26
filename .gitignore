@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 .DS_Store
 notebooks/create_notebook.py
+notebooks/notebook_output/
